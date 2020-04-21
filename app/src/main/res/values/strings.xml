@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">GolecDriverBigBasket</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="start_slot_1">Start Slot 1</string>
+    <string name="start_slot_2">Start Slot 2</string>
+    <string name="orders_delivered">Have you delivered the orders?</string>
+    <string name="change_language">Change Language</string>
+</resources>

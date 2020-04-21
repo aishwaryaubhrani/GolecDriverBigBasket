@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">GolecDriverBigBasket</string>
+    <string name="enter_phone_number">आपला फोन नंबर प्रविष्ट करा</string>
+    <string name="enter_password">कुंजिका</string>
+    <string name="login">लॉगिन</string>
+    <string name="start_slot_1">स्लॉट 1 प्रारंभ करा</string>
+    <string name="start_slot_2">स्लॉट 2 प्रारंभ करा</string>
+    <string name="orders_delivered">आपण ऑर्डर वितरित केल्या आहेत?</string>
+    <string name="change_language">भाषा बदला</string>
+</resources>
